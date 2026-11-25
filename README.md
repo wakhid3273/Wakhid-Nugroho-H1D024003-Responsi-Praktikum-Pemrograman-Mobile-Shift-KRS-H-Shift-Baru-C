@@ -2,6 +2,9 @@
 
 Arsitektur: MVVM | State: Provider | Storage: SharedPreferences | API: Open-Meteo
 
+## Link Video Youtube
+https://youtu.be/171dbGLQbSo 
+
 ## Dokumentasi Aplikasi
 ### Home Screen
 ![Home Screen](SS1.jpeg)
